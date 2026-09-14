@@ -1,0 +1,65 @@
+{
+  "Banana-healthy-leaf": {
+    "display_name": "Healthy banana leaf",
+    "status": "healthy",
+    "cause": "No pathogen detected — the leaf shows the uniform green colour and intact tissue of a well-nourished plant.",
+    "symptoms": "Even green colour, no lesions, streaks, wilting or discoloration along the veins.",
+    "treatment": "No action needed. Keep up good spacing, drainage and regular field checks so problems are caught early."
+  },
+  "Banana-black-sigatoka": {
+    "display_name": "Black Sigatoka",
+    "status": "disease",
+    "cause": "A fungus (Mycosphaerella fijiensis) that spreads through wind-blown spores and thrives in humid conditions, worsened by dense planting and poor drainage.",
+    "symptoms": "Reddish-brown streaks on the leaf that darken into black necrotic blotches ringed with yellow, eventually killing large patches of leaf tissue.",
+    "treatment": "Cut off and destroy heavily infected leaves, improve drainage and plant spacing for airflow, apply a recommended fungicide (e.g. mancozeb or propiconazole) following local agricultural extension guidance, and favour tolerant banana varieties where possible."
+  },
+  "Banana-fusarium-wilt": {
+    "display_name": "Fusarium Wilt (Panama Disease)",
+    "status": "disease",
+    "cause": "A soil-borne fungus (Fusarium oxysporum f.sp. cubense) that enters through the roots and can persist in soil for decades; it spreads via infected suckers, tools and irrigation water.",
+    "symptoms": "Yellowing that starts at the margins of older leaves, leaves wilting and collapsing around the stem, and brown-black streaking inside the pseudostem when cut.",
+    "treatment": "There is no cure once a plant is infected — uproot and destroy affected plants, avoid replanting bananas in the same soil, use certified disease-free (tissue-culture) planting material, disinfect tools between plants, and plant resistant cultivars where available."
+  },
+  "Bean-healthy-leaf": {
+    "display_name": "Healthy bean leaf",
+    "status": "healthy",
+    "cause": "No pathogen detected — the leaf shows normal colour and structure.",
+    "symptoms": "Uniform green leaf, no dark lesions, pustules or angular spots.",
+    "treatment": "No action needed. Continue crop rotation and regular scouting to catch any issues early."
+  },
+  "Bean-anthra-leaf": {
+    "display_name": "Bean Anthracnose",
+    "status": "disease",
+    "cause": "A fungus (Colletotrichum lindemuthianum) spread by infected seed, splashing rain and contaminated tools or hands, especially in cool, wet conditions.",
+    "symptoms": "Dark, sunken lesions on pods and stems, with angular brown-to-black spots along the leaf veins, most visible on the underside of the leaf.",
+    "treatment": "Plant certified disease-free seed, rotate out of beans for 2-3 years, remove and burn crop debris after harvest, avoid working the field while leaves are wet, and apply an approved fungicide if the infection is severe."
+  },
+  "Bean-rust-leaf": {
+    "display_name": "Bean Rust",
+    "status": "disease",
+    "cause": "A fungus (Uromyces appendiculatus) spread by wind-borne spores, favoured by warm, humid weather and a dense leaf canopy.",
+    "symptoms": "Small reddish-brown raised pustules on the underside of leaves, each surrounded by a yellow halo; heavy infection causes early leaf drop.",
+    "treatment": "Plant resistant varieties, space plants for good airflow, remove volunteer bean plants and old crop debris, and apply fungicide at the first sign of infection if pressure is heavy."
+  },
+  "Maize-healthy-leaf": {
+    "display_name": "Healthy maize leaf",
+    "status": "healthy",
+    "cause": "No pathogen detected — normal leaf colour and structure.",
+    "symptoms": "Uniform green blade, no streaking, mottling or necrosis.",
+    "treatment": "No action needed. Keep monitoring for insect vectors that can introduce viral disease later in the season."
+  },
+  "Maize-lethal-necrosis": {
+    "display_name": "Maize Lethal Necrosis (MLN)",
+    "status": "disease",
+    "cause": "A viral disease caused by co-infection with Maize Chlorotic Mottle Virus and a cereal potyvirus, transmitted by thrips, aphids and beetles, and sometimes carried in seed.",
+    "symptoms": "Chlorotic mottling starting near the leaf base, progressing to yellowing and dead (necrotic) tissue spreading out from the midrib, stunted plants and poor or absent cob formation.",
+    "treatment": "There is no chemical cure — uproot and destroy infected plants early, control the insect vectors, plant certified virus-free seed, rotate with non-cereal crops, and avoid planting maize continuously in the same field."
+  },
+  "Maize-streak-virus": {
+    "display_name": "Maize Streak Virus (MSV)",
+    "status": "disease",
+    "cause": "A virus transmitted by leafhoppers, which spreads quickly in warm weather, especially where volunteer maize or grassy weeds host the insect vector nearby.",
+    "symptoms": "Narrow, pale yellow or white broken streaks running parallel to the leaf veins, stunted growth and smaller cobs.",
+    "treatment": "Control leafhopper vectors with insecticide or intercropping, plant resistant or tolerant varieties, remove volunteer maize and grassy weeds around the field, and plant early to avoid the peak vector season."
+  }
+}
