@@ -1,7 +1,7 @@
 {
   "functions": {
     "main.py": {
-      "memory": 3009,
+      "memory": 2048,
       "maxDuration": 30
     }
   }
