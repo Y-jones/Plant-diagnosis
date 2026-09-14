@@ -41,7 +41,7 @@ except ImportError:  # groq is optional; app still runs without it
 BASE_DIR = Path(__file__).parent
 MODELS_DIR = BASE_DIR / "models"
 IMG_SIZE = 224
-GATE_THRESHOLD = 0.1  # default threshold, matches training
+GATE_THRESHOLD = 0.2  # default threshold, matches training
 
 app = FastAPI(title="Qavaa Plant Doctor API")
 
