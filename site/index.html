@@ -135,14 +135,18 @@
     </div>
   </div>
 
-  <footer>
-    Backend not configured — set <code>API_BASE_URL</code> at the top of the script in this file to your deployed API's URL (e.g. your Hugging Face Space).
+  <footer id="footerNote" style="display:none;">
+    Backend not configured — set <code>API_BASE_URL</code> at the top of the script in this file to your deployed API's URL.
   </footer>
 </div>
 
 <script>
   // Set this to your deployed backend, e.g. "https://your-space.hf.space"
   const API_BASE_URL = "https://plant-diagnose.vercel.app";
+
+  if (!API_BASE_URL) {
+    document.getElementById('footerNote').style.display = 'block';
+  }
 
   const frame = document.getElementById('frame');
   const frameEmpty = document.getElementById('frameEmpty');
