@@ -1,17 +1,1 @@
-{
-  "BANANA": {
-    "Banana-healthy-leaf": 0,
-    "Banana-black-sigatoka": 1,
-    "Banana-fusarium-wilt": 2
-  },
-  "BEAN": {
-    "Bean-healthy-leaf": 0,
-    "Bean-anthra-leaf": 1,
-    "Bean-rust-leaf": 2
-  },
-  "MAIZE": {
-    "Maize-healthy-leaf": 0,
-    "Maize-lethal-necrosis": 1,
-    "Maize-streak-virus": 2
-  }
-}
+{"BANANA": {"Banana-healthy-leaf": 0, "Banana-black-sigatoka": 1, "Banana-fusarium-wilt": 2}, "BEAN": {"Bean-healthy-leaf": 0, "Bean-anthra-leaf": 1, "Bean-rust-leaf": 2}, "MAIZE": {"Maize-healthy-leaf": 0, "Maize-lethal-necrosis": 1, "Maize-streak-virus": 2}}
